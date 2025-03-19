@@ -10,3 +10,4 @@ The project requires the .NET Editor as the code development environment. I'll b
 - Final scores are calculated as an average of the five assignment scores.
 - The application will perform basic math operations to calculate the final grades for each student.
 - The application will output/display each student’s name and final score.
+
