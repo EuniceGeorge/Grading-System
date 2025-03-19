@@ -75,7 +75,14 @@ nicolas = nicolas1+ nicolas2 + nicolas3 + nicolas4 +nicolas5;
 zahirah = zahirah1 + zahirah2+zahirah3+zahirah4+zahirah5;
 jeong = jeong1+jeong2+jeong3+jeong4+jeong5;
 
-Console.WriteLine($"The Total sum gotten by sophia is: {sophia}");
-Console.WriteLine($"The Total sum gotten by nicolas is: {nicolas}");
-Console.WriteLine($"The Total sum gotten by Zahirah is: {zahirah}");
-Console.WriteLine($"The Total sum gotten by jeong is: {jeong}");
+decimal sophiaScore = (decimal)sophia / currentAssignments;
+decimal nicolasScore = (decimal)nicolas / currentAssignments;
+decimal zahirahScore = (decimal)zahirah / currentAssignments;
+decimal jeongScore = (decimal)jeong / currentAssignments;
+
+Console.WriteLine("Student\t Score\t");
+Console.WriteLine($"The Total score gotten by sophia is:\t {sophiaScore + " \tA"}");
+Console.WriteLine($"The Total score gotten by nicolas is:\t {nicolasScore + " \tB"}");
+Console.WriteLine($"The Total score gotten by Zahirah is:\t {zahirahScore + " \tB"}");
+Console.WriteLine($"The Total score gotten by jeong is:\t {jeongScore + " \tA"}");
+
