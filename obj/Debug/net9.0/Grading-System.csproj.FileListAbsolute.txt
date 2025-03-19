@@ -1,0 +1,15 @@
+/home/eunice/Documents/CSharp/Grading-System/bin/Debug/net9.0/Grading-System
+/home/eunice/Documents/CSharp/Grading-System/bin/Debug/net9.0/Grading-System.deps.json
+/home/eunice/Documents/CSharp/Grading-System/bin/Debug/net9.0/Grading-System.runtimeconfig.json
+/home/eunice/Documents/CSharp/Grading-System/bin/Debug/net9.0/Grading-System.dll
+/home/eunice/Documents/CSharp/Grading-System/bin/Debug/net9.0/Grading-System.pdb
+/home/eunice/Documents/CSharp/Grading-System/obj/Debug/net9.0/Grading-System.GeneratedMSBuildEditorConfig.editorconfig
+/home/eunice/Documents/CSharp/Grading-System/obj/Debug/net9.0/Grading-System.AssemblyInfoInputs.cache
+/home/eunice/Documents/CSharp/Grading-System/obj/Debug/net9.0/Grading-System.AssemblyInfo.cs
+/home/eunice/Documents/CSharp/Grading-System/obj/Debug/net9.0/Grading-System.csproj.CoreCompileInputs.cache
+/home/eunice/Documents/CSharp/Grading-System/obj/Debug/net9.0/Grading-System.sourcelink.json
+/home/eunice/Documents/CSharp/Grading-System/obj/Debug/net9.0/Grading-System.dll
+/home/eunice/Documents/CSharp/Grading-System/obj/Debug/net9.0/refint/Grading-System.dll
+/home/eunice/Documents/CSharp/Grading-System/obj/Debug/net9.0/Grading-System.pdb
+/home/eunice/Documents/CSharp/Grading-System/obj/Debug/net9.0/Grading-System.genruntimeconfig.cache
+/home/eunice/Documents/CSharp/Grading-System/obj/Debug/net9.0/ref/Grading-System.dll
